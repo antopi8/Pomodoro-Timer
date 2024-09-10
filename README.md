@@ -1,5 +1,5 @@
 # Pomodoro Timer
-
+A Pomodoro website built with React components allows users to set customizable study and break timers. The app helps users manage their time effectively by alternating between focused work sessions and short breaks. When the timer reaches zero, a sound alert notifies the user, ensuring they stay on track with their tasks.
 
 ## 👀 Preview
 
